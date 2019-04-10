@@ -8,4 +8,4 @@ https://zhangnanfudan.github.io (repository: https://github.com/zhangnanfudan/zh
 http://jekyllthemes.org/page5/
 Please report to me if any copyright infringement is concerned.
 
-It is licensed under [CC-BY-SA-4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.en).
+It is under [MIT License](/LICENSE) and [CC-BY-SA-4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.en).
