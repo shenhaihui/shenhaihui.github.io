@@ -15,7 +15,7 @@ p.text-muted a:hover { text-decoration: none; color: #0088cc; }
   background-color: #999999;
   border: none;
   color: white;
-  padding: 1.3px 3px;
+  padding: 1.29px 3px;
   text-align: center;
   text-decoration: none;
   display: inline-block;
@@ -35,7 +35,7 @@ p.text-muted a:hover { text-decoration: none; color: #0088cc; }
 }
 .button-cv {
   border-radius: 3px;
-  padding: 1.3px 6px;
+  padding: 1.29px 6px;
 }
 .button-cv:hover {
   background-color: #0088cc;
