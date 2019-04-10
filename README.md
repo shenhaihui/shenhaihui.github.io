@@ -1,4 +1,4 @@
-# SHEN Haihui · Homepage
+## SHEN Haihui · Homepage
 
 My personal homepage [shenhaihui.github.io](https://shenhaihui.github.io/) hosted on github.
 
