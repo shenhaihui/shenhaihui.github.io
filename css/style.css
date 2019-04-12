@@ -54,6 +54,44 @@ p.text-muted a:hover { text-decoration: none; color: #0088cc; }
 }
 
 
+
+
+
+
+.paperclick {
+  font-size: 75%;
+  font-weight: bold;
+  color: #ffffff;
+  text-align: center;
+  white-space: nowrap;
+  border-radius: .25em;
+  padding: 2px 5px;
+}
+.paperclick[href]:hover,
+.paperclick[href]:focus {
+  color: #ffffff;
+  text-decoration: none;
+  cursor: pointer;
+}
+.paperclick:empty {
+  display: none;
+}
+
+.paperclick-gray {
+  background-color: #999999;
+}
+.paperclick-gray[href]:hover,
+.paperclick-gray[href]:focus {
+  background-color: #808080;
+}
+
+
+
+
+
+
+
+
 .mytext {line-height: 23px; width: 95%; margin: 0 auto;}
 /* ------------------ */
 
