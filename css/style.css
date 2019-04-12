@@ -54,10 +54,6 @@ p.text-muted a:hover { text-decoration: none; color: #0088cc; }
 }
 
 
-
-
-
-
 .paperclick {
   font-size: 75%;
   font-weight: bold;
@@ -86,11 +82,45 @@ p.text-muted a:hover { text-decoration: none; color: #0088cc; }
   background-color: #808080;
 }
 
+.paperclick-blue {
+  background-color: #428bca;
+}
+.paperclick-blue[href]:hover,
+.paperclick-blue[href]:focus {
+  background-color: #3071a9;
+}
 
+.paperclick-blue2 {
+  background-color: #5bc0de;
+}
+.paperclick-blue2[href]:hover,
+.paperclick-blue2[href]:focus {
+  background-color: #31b0d5;
+}
 
+.paperclick-green {
+  background-color: #5cb85c;
+}
+.paperclick-green[href]:hover,
+.paperclick-green[href]:focus {
+  background-color: #449d44;
+}
 
+.paperclick-orange {
+  background-color: #f0ad4e;
+}
+.paperclick-orange[href]:hover,
+.paperclick-orange[href]:focus {
+  background-color: #ec971f;
+}
 
-
+.paperclick-red {
+  background-color: #d9534f;
+}
+.paperclick-red[href]:hover,
+.paperclick-red[href]:focus {
+  background-color: #c9302c;
+}
 
 
 .mytext {line-height: 23px; width: 95%; margin: 0 auto;}
