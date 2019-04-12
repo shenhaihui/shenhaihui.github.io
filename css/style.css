@@ -78,6 +78,7 @@ p.text-muted a:hover { text-decoration: none; color: #0088cc; }
 }
 
 .paperclick-gray {
+  margin-top:-10px;
   background-color: #999999;
 }
 .paperclick-gray[href]:hover,
