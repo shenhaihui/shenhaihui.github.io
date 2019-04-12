@@ -42,6 +42,16 @@ p.text-muted a:hover { text-decoration: none; color: #0088cc; }
   color: white;
 }
 
+.button-paper-gray {
+  border-radius: 2px;
+  padding: 1.29px 6px;
+  background-color: #999999;
+}
+.button-paper-gray:hover {
+  background-color: #808080;
+}
+
+
 .mytext {line-height: 23px; width: 95%; margin: 0 auto;}
 /* ------------------ */
 
