@@ -46,6 +46,7 @@ p.text-muted a:hover { text-decoration: none; color: #0088cc; }
   border-radius: 2px;
   padding: 1.29px 6px;
   font-size: 10px;
+  font-weight: bold;
   background-color: #999999;
 }
 .button-paper-gray:hover {
