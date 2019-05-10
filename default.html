@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" width="device-width, initial-scale=1.0">
+	<meta name="description" content="{{ page.description }}">
+	<meta name="author" content="SHEN Haihui">
+	
+	<!-- favicon -->	
+	<link rel="apple-touch-icon" sizes="180x180" href="/image/icon/apple-touch-icon.png">
+	<link rel="icon" type="image/png" sizes="32x32" href="/image/icon/favicon-32x32.png">
+	<link rel="icon" type="image/png" sizes="16x16" href="/image/icon/favicon-16x16.png">
+	<link rel="manifest" href="/image/icon/site.webmanifest">
+	<link rel="mask-icon" href="/image/icon/safari-pinned-tab.svg" color="#5bbad5">
+	<link rel="shortcut icon" href="/image/icon/favicon.ico">
+	<meta name="msapplication-TileColor" content="#da532c">
+	<meta name="msapplication-config" content="/image/icon/browserconfig.xml">
+	<meta name="theme-color" content="#ffffff">
+	
+	
+	<!-- Academicons, which is an icon font for academics. http://jpswalsh.github.io/academicons -->
+	<link rel="stylesheet" href="/css/academicons.min.css">	
+	<!-- font-awesome https://github.com/FortAwesome/Font-Awesome -->
+	<link rel="stylesheet" href="/css/font-awesome.min.css">
+		
+	
+	<title>{{ page.title }}</title>
+	<!-- styles -->
+	<link href="/css/bootstrap.css" rel="stylesheet">
+	<link href="/css/jumbotron-narrow.css" rel="stylesheet">
+	<link href="/css/style.css" rel="stylesheet">
+</head>
+
+<body>
+	<div class="container">
+
+		<div class="header">
+			<ul class="nav nav-pills pull-right" style="margin-top:15px;">
+				<li class="{{ page.research }}"><a href="/research" title="Research">Research</a></li>
+				<li class="{{ page.teaching }}"><a href="/teaching" title="Teaching">Teaching</a></li>
+				<li class="{{ page.project }}"><a href="/project" title="Project">Project</a></li>
+				<li class="{{ page.misc }}"><a href="/misc" title="Miscellany">Misc</a></li>
+			</ul>
+
+			<h3 class="text-muted" style="margin-left:17px; font-size:20px; line-height:25px; text-transform:none">
+				<a href="/"><img src="/image/seal_200x200.png" height="50px" style="float:left"/></a>
+				<a href="/" style="margin-left:10px">SHEN Haihui</a><br/>
+				<a href="/" style="margin-left:10px">沈海辉</a> 
+			</h3>
+		</div>		
+
+		
+		{{ content }} 
+		
+		
+		<div class="footer">
+			<div class="row">
+				<div class="col-sm-8">
+				<a href="/seal/" title="This great seal was made by Mr. WANG Jiadong. Click to see more details.">
+					<img src="/image/seal_200x200.png" height="36px" style="margin-left:17px; float:left"/></a>
+				<p class="text-muted" style="margin-left:65px; text-transform:none; line-height:19px;">
+					&copy
+					<a href="/" style="text-transform:none">
+					shenhaihui.github.io
+					</a><br/>
+					Last Update: 2019-04-11
+				</p>
+				</div>
+			</div>
+		</div>		
+
+	</div>
+	<!-- /container -->
+
+    
+	<!-- javascript at the end of the doc so page loads faster -->
+	<script src="https://code.jquery.com/jquery.js"></script>
+	<script src="/js/bootstrap.min.js"></script>
+	<script src="/js/library.js"></script>
+	<script src="https://cdn.rawgit.com/google/code-prettify/master/loader/run_prettify.js"></script>	
+
+</body>
+
+</html>
