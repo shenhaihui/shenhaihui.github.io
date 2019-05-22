@@ -9,4 +9,4 @@ It was constructed based on
 
 Please report to me if any copyright infringement is concerned.
 
-It is under [MIT License](/LICENSE) and [CC-BY-SA-4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.en).
+It is under [MIT License](/LICENSE) and [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.en).
