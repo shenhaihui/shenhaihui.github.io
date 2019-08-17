@@ -2,7 +2,7 @@ This work is under Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) Licen
 这个工作遵循署名-相同方式共享 4.0 国际 (CC BY-SA 4.0)许可协议
 
 Attribution 归属
-SHEN Haihui 沈海辉 (https://shenhaihui.github.io/)
+SHEN Haihui 沈海辉 (<a href="https://shenhaihui.github.io/">https://shenhaihui.github.io/</a>)
 
 Original Source 原始来源
 https://shenhaihui.github.io/teaching/mg26018/
