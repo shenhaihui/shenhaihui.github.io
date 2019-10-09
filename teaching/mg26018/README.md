@@ -1,1 +1,8 @@
-https://shenhaihui.github.io/teaching/mg26018/files/references/Hines_et_al_2002.html
+# Permanent Path
+
+./teaching/mg26018/CC_BY-SA_4.0_License.html
+./teaching/mg26018/CC_BY-SA_4.0_License.txt
+
+./teaching/mg26018/files/Box-Muller.svg
+
+./teaching/mg26018/files/references/
