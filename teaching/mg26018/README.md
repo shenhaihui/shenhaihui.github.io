@@ -1,4 +1,5 @@
-# MG26018 Simulation Modeling and Analysis 仿真建模与分析
+# MG26018 Simulation Modeling and Analysis
+# 仿真建模与分析
 
 ### Permanent Path
 
