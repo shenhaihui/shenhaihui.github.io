@@ -2,4 +2,6 @@
 
 ### Full-time Master
 
+### With Focus on Theory and Analysis
+
 ### Spring 2021
