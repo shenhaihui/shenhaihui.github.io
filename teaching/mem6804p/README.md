@@ -2,4 +2,6 @@
 
 ### Part-time Master (MEM)
 
+### With Focus on Examples and Softwares
+
 ### Spring 2021
