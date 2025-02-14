@@ -4,4 +4,4 @@
 
 ### With Focus on Theory and Analysis
 
-### Spring 2024
+### Spring 2025
