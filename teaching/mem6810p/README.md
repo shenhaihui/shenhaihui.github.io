@@ -4,4 +4,4 @@
 
 ### With Focus on Examples and Softwares
 
-### Spring 2025
+### Spring 2026
